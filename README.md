@@ -1,5 +1,5 @@
-# Looping-error-dan-basic-Python
-Learn Basic Python about Looping, Break, Continue, And how to Handling Error
+# Looping-error-and-basic-Python
+Learn Basic Python about Looping, Break, Continue, And how to Handling Error.
 
 # Use Case
 ## Objective Statement 
@@ -53,3 +53,4 @@ Learn Basic Python about Looping, Break, Continue, And how to Handling Error
 ### 9. Handling Error
 - Handling error to resolve the error so as not to stop the program
 - Many types and ways to solve errors
+
